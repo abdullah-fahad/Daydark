@@ -28,6 +28,49 @@
   color: #61dafb;
 }
 
+.myNav{
+  color: aliceblue !important;
+  padding: 10px;
+  margin-right: 10px;
+  transition: all 0.3s;
+  width: 100px;
+}
+.myNav:hover{
+  background-color: rgba(254, 254, 255, 0.555)  !important;
+  border-radius: 20px;
+}
+.loginSignup{
+  margin-left: 20.5%;
+  width: 300px;
+}
+.mar-right{
+  margin-right: 15px;
+}
+.rounded{
+  transition: all 0.3s;
+  width: 150px;
+  border-radius: 30px !important;
+}
+
+.height-full{
+  height: 1000px;
+}
+.welcoming{
+  padding: 30px !important;
+  border-radius: 20px;
+  margin: auto;
+  width: fit-content;
+  margin-top: 250px;
+  background-color: rgba(163, 167, 165, 0.637);
+}
+
+.link{
+  transition: all 0.3s;
+  margin-left: 40px;
+  text-decoration: none;
+  color: rgb(69, 70, 71);
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);
